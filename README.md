@@ -7,7 +7,7 @@
 - 👨‍💻 I'm Junior Web Developer
 - 👯 Just an Introvert
 - 🥅 Impian 2022: Bisa mengubah hobi menjadi <b>Penghasilan</b>
-- ⚡ Fun fact: copy paste </>
+- ⚡ Objective: TAK PERLU MENJADI AHLI UNTUK MENYELESAIKAN MASALAH BESAR.
 
 ### My Skill
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png"/>
