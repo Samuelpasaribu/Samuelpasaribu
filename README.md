@@ -27,7 +27,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanka761&theme=github_dark&exclude_repo=font-awesome-pro&custom_title=Bahasa%20Yang%20Sering%20Digunakan)](https://github.com/Samuelpasaribu)
 
-[app]: https://okemedia.web.app
+[app]: https://myidchat.web.app
 [website]: https://www.samuelpasaribu.com
 
 <p>©&nbsp;2022 · <a href="https://www.samuelpasaribu.com">samuelpasaribu.com</a></p>
