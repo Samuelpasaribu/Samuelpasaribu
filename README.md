@@ -8,8 +8,8 @@
 - 💬 [Bot Chat][app3]
 - 🎵 [Music][app4]
 - 🏴‍☠️ [Deface][app5]
-- 🌐 [CV][app6]
-- 🎯 [Blog][app7]
+- 🛄 [CV][app6]
+- 🅱️ [Blog][app7]
 
 ### My Skill
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png"/>
