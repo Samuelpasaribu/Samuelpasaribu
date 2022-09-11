@@ -1,15 +1,10 @@
-### Halo, saya [Samuel Pasaribu][website] 👋 Salam kenal! 
+### [SAMUELPASARIBU.COM][website]
 
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=Ad%20Follow&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://bit.ly/3fc1zZe)
 
 ### My Project Hosting
 - 💬 [Live Messenger][app1]
 - 💬 [Chat Blogging][app2]
-- 💬 [Bot Chat][app3]
-- 🎵 [Music][app4]
-- 🏴‍☠️ [Deface][app5]
-- 🛄 [CV][app6]
-- 🅱️ [Blog][app7]
 
 ### My Skill
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png"/>
@@ -31,11 +26,6 @@
 
 [app1]: https://myidchat.web.app
 [app2]: https://chatblogging.web.app
-[app3]: https://okemedia.web.app
-[app4]: https://okemedia.web.app/mp3
-[app5]: https://okemedia.web.app/status
-[app6]: https://samuelpasaribu.github.io
-[app7]: https://tikseo.blogspot.com
 [website]: https://www.samuelpasaribu.com
 
 <p>©&nbsp;2022 · <a href="https://www.samuelpasaribu.com">samuelpasaribu.com</a></p>
