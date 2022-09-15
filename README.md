@@ -2,7 +2,7 @@
 
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=Ad%20Follow&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://bit.ly/3fc1zZe)
 
-### My Project Hosting
+### Projects
 - 💬 [Live Messenger][app1]
 - 💬 [Chat Blogging][app2]
 
