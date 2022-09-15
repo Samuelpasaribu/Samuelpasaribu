@@ -3,8 +3,8 @@
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=Ad%20Follow&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://bit.ly/3fc1zZe)
 
 ### Projects
-- 💬 [Live Messenger][app1]
-- 💬 [Chat Blogging][app2]
+- 💬 [Myidchat][app1]
+- 💬 [Chatblogging][app2]
 
 ### My Skill
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png"/>
