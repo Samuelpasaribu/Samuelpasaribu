@@ -6,7 +6,6 @@ Perkenalkan Nama Saya Samuel Pasaribu saya berasal dari Indonesia Sumatera Utara
 
 ### Projects
 - 💬 [Myidchat][app1]
-- 💬 [Chatblogging][app2]
 
 ### Stats
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png"/>
@@ -27,7 +26,6 @@ Perkenalkan Nama Saya Samuel Pasaribu saya berasal dari Indonesia Sumatera Utara
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanka761&theme=github_dark&exclude_repo=font-awesome-pro&custom_title=Bahasa%20Yang%20Sering%20Digunakan)](https://github.com/Samuelpasaribu)
 
 [app1]: https://myidchat.web.app
-[app2]: https://chatblogging.web.app
 [website]: https://www.samuelpasaribu.com
 
 ## &#x270d; Blog & Writing
