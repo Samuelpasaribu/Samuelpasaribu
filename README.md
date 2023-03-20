@@ -5,7 +5,7 @@ Perkenalkan Nama Saya Samuel Pasaribu saya berasal dari Indonesia Sumatera Utara
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=Ad%20Follow&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://bit.ly/3fc1zZe)
 
 ### Projects
-- 💬 [Myidchat][app1]
+- 💬 [Okemedia][app1]
 
 ### Stats
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png"/>
@@ -25,7 +25,7 @@ Perkenalkan Nama Saya Samuel Pasaribu saya berasal dari Indonesia Sumatera Utara
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanka761&theme=github_dark&exclude_repo=font-awesome-pro&custom_title=Bahasa%20Yang%20Sering%20Digunakan)](https://github.com/Samuelpasaribu)
 
-[app1]: https://myidchat.web.app
+[app1]: https://okemedia.web.app
 [website]: https://www.samuelpasaribu.com
 
 ## &#x270d; Blog & Writing
@@ -46,17 +46,4 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/Samuelpasaribu/Samuelpasaribu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelpasaribu&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Samuelpasaribu/Samuelpasaribu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samuelpasaribu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<br/>
-<br/>
-
 <p>©&nbsp;2022 · <a href="https://www.samuelpasaribu.com">samuelpasaribu.com</a></p>
