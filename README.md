@@ -1,49 +1,89 @@
-### [SAMUELPASARIBU.COM][website]
+My name is <a href='https://uinsu.ac.id'><b>Samuel Pasaribu</b></a>, I come from Indonesia, North Sumatra, I work in the IT Information sector. Check out some of my amazing projects with creative ideas and great designs.
 
-Perkenalkan Nama Saya Samuel Pasaribu saya berasal dari Indonesia Sumatera Utara, Saya bergerak Di bidang IT Information. Kalian Bisa Hubungi Saya Melalui [Myidchat](https://myidchat.web.app)
+<center>
+  
+**Our Opensource Project**
+  <table>
+    <tr>
+      <td><a href="https://github.com/haxorsprogramming/Mondry" style="margin-right:50px;">
+<img src="https://www.samuel.com/public/images/logo.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1642493851825" width="200px">
+        </a></td>
+      <td>
+        <small>Project name </small><br/>
+        <strong>samuelpasaribu.com</strong><br/>
+        <small>Repo Link </small><br/>
+        <strong><a href="https://www.samuelpasaribu.com">Link</a></strong><br/>
+        <small>Demo Link </small><br/>
+        <strong>Demo</strong>
+      </td>
+      <td width="500px">
+        The samuelpasaribu.com blog is media sharing and sharing about Blogger, AdSense, programming, tutorials, tools and blog templates.<br/><br/>
+        <small>Founder </small><br/>
+        <strong>Samuel Pasaribu</strong><br/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="" style="margin-right:50px;">
+<img src="https://cdn.jsdelivr.net/gh/samuelpasaribu/haxortheme/haxortheme-icon.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1642493937362" width="200px">
+        </a></td>
+      <td>
+        <small>Project name </small><br/>
+        <strong>HaxorAI</strong><br/>
+        <small>Repo Link </small><br/>
+        <strong><a href="https://www.haxorai.com">Link</a></strong><br/>
+        <small>Demo Link </small><br/>
+        <strong>Demo</strong>
+      </td>
+      <td width="500px">
+        Empowering Web Excellence: Welcome to HaxorAI. Discover AI-driven web designs that redefine modern aesthetics.<br/><br/>
+        <small>Status release </small><br/>
+        <strong>V1.0  (Release)</strong><br/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="" style="margin-right:50px;">
+<img src="https://www.freeiconspng.com/thumbs/blogger-logo-icon-png/blogger-logo-icon-png-5.png?ik-sdk-version=javascript-1.4.3&updatedAt=1609130539268" width="200px">
+        </a></td>
+      <td>
+        <small>Project name </small><br/>
+        <strong>Tema Blogger</strong><br/>
+        <small>Repo Link </small><br/>
+        <strong><a href="https://www.haxorai.com">Link</a></strong><br/>
+        <small>Demo Link </small><br/>
+        <strong>Demo</strong>
+      </td>
+      <td width="500px">
+        Modern Blogger Themes for a Professional Website Appearance
+        <br/><br/>
+        <small>Status Analytics </small><br/>
+        <strong>SEO</strong><br/>
+        <strong>(<a href="https://bit.ly/2NOIFtY">Add to Cart</a>)</strong><br/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/haxorsprogramming/Bengkel-Caca" style="margin-right:50px;">
+<img src="https://cdn.jsdelivr.net/gh/zonemedia/okemedia/img/samuelganteng.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1642493997434" width="200px">
+        </a></td>
+      <td>
+        <small>Project name </small><br/>
+        <strong>Anonymous</strong><br/>
+        <small>Repo Link </small><br/>
+        <strong><a href="https://chat.haxorai.com">Link</a></strong><br/>
+        <small>Demo Link </small><br/>
+        <strong>Demo</strong>
+      </td>
+      <td width="500px">
+        Chat HaxorAI for creating engaging content, simplifying task completion, searching information, and much more.<br/><br/>
+        <small>Status release </small><br/>
+        <strong>On development</strong><br/>
+      </td>
+    </tr>
+  </table>  
+</center>
 
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=Ad%20Follow&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://bit.ly/3fc1zZe)
 
-### Projects
-- 💬 [Okemedia][app1]
+**Contact Info**
+<strong>Email : samuelpasaribu3342@gmail.com</strong>
 
-### Stats
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png"/>
-<img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png"/>
-<img align="left" alt="Node.js" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/node-dot-js-3628953-3030178.png" />
-<img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" />
-<img align="left" alt="Firebase" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/firebase-1-282796.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" />
-
-<br/>
-<br/>
-
-[![Statistik Devanka761](https://github-readme-stats.vercel.app/api?username=devanka761&theme=github_dark&hide=contribs,commits&show_icons=true&custom_title=Statistik%20zonemedia)](https://github.com/Samuelpasaribu)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanka761&theme=github_dark&exclude_repo=font-awesome-pro&custom_title=Bahasa%20Yang%20Sering%20Digunakan)](https://github.com/Samuelpasaribu)
-
-[app1]: https://okemedia.web.app
-[website]: https://www.samuelpasaribu.com
-
-## &#x270d; Blog & Writing
-
-Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya anda akan mendapatkan banyak ilmu [Hdlsvip](https://www.samuelpasaribu.com) untuk melihat demo landing page [Landing Page](https://www.samuelpasaribu.com).
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-<p>©&nbsp;2022 · <a href="https://www.samuelpasaribu.com">samuelpasaribu.com</a></p>
+**Want to get live updates about the progress of our project? please follow our <a href="https://bit.ly/3fc1zZe">samuelpasaribu.com</a>**<br/>
+**Please help subscribe to our youtube channel at <a href='https://www.blogger.com/follow.g?blogID=4061594496594647061'>haxorai.com</a>**
