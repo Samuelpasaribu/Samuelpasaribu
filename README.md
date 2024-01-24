@@ -1,4 +1,4 @@
-My name is <a href='https://uinsu.ac.id'><b>Samuel Pasaribu</b></a>, I come from Indonesia, North Sumatra, I work in the IT Information sector. Check out some of my amazing projects with creative ideas and great designs.
+My name is <a href='https://samuelpasaribu.github.io'><b>Samuel Pasaribu</b></a>, I come from Indonesia, North Sumatra, I work in the IT Information sector. Check out some of my amazing projects with creative ideas and great designs.
 
 <center>
   
