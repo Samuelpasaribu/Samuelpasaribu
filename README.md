@@ -6,7 +6,7 @@ My name is <a href='https://samuelpasaribu.github.io'><b>Samuel Pasaribu</b></a>
   <table>
     <tr>
       <td><a href="https://github.com/haxorsprogramming/Mondry" style="margin-right:50px;">
-<img src="https://www.samuel.com/public/images/logo.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1642493851825" width="200px">
+<img src="https://anonymous.haxorai.com/img/logo.svg" width="200px">
         </a></td>
       <td>
         <small>Project name </small><br/>
@@ -24,7 +24,7 @@ My name is <a href='https://samuelpasaribu.github.io'><b>Samuel Pasaribu</b></a>
     </tr>
     <tr>
       <td><a href="" style="margin-right:50px;">
-<img src="https://cdn.jsdelivr.net/gh/samuelpasaribu/haxortheme/haxortheme-icon.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1642493937362" width="200px">
+<img src="https://web.haxorai.com/img/favicon.svg" width="200px">
         </a></td>
       <td>
         <small>Project name </small><br/>
